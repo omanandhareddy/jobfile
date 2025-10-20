@@ -544,4 +544,392 @@
       "appliedDate": "2025-10-16"
     }
   ]
+  ,
+  "jobs1": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Tech Solutions",
+      "location": "Hyderabad",
+      "description": "Build responsive web applications using Angular.",
+      "experience": "0-2 years",
+      "salary": "₹20,000 - ₹35,000"
+    },
+    {
+      "id": "2",
+      "title": "Backend Developer",
+      "company": "Innovatech",
+      "location": "Bangalore",
+      "description": "Develop RESTful APIs with Node.js and Express.",
+      "experience": "2-5 years",
+      "salary": "₹30,000 - ₹50,000"
+    },
+    {
+      "id": "3",
+      "title": "Fullstack Developer",
+      "company": "SmartApps",
+      "location": "Chennai",
+      "description": "Work on both frontend and backend of web apps.",
+      "experience": "2-5 years",
+      "salary": "₹35,000 - ₹60,000"
+    },
+    {
+      "id": "4",
+      "title": "UI/UX Designer",
+      "company": "DesignPro",
+      "location": "Mumbai",
+      "description": "Design interactive and user-friendly interfaces.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "5",
+      "title": "Data Analyst",
+      "company": "DataCorp",
+      "location": "Delhi",
+      "description": "Analyze datasets to provide business insights.",
+      "experience": "0-2 years",
+      "salary": "₹22,000 - ₹40,000"
+    },
+    {
+      "id": "6",
+      "title": "DevOps Engineer",
+      "company": "CloudNet",
+      "location": "Bangalore",
+      "description": "Maintain CI/CD pipelines and cloud infrastructure.",
+      "experience": "2-5 years",
+      "salary": "₹40,000 - ₹70,000"
+    },
+    {
+      "id": "7",
+      "title": "Project Manager",
+      "company": "NextGen Tech",
+      "location": "Pune",
+      "description": "Manage software projects from planning to delivery.",
+      "experience": "5+ years",
+      "salary": "₹60,000 - ₹90,000"
+    },
+    {
+      "id": "8",
+      "title": "QA Tester",
+      "company": "TestWorks",
+      "location": "Hyderabad",
+      "description": "Perform manual and automated testing of applications.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "9",
+      "title": "Mobile App Developer",
+      "company": "AppForge",
+      "location": "Chennai",
+      "description": "Develop Android and iOS apps using Flutter.",
+      "experience": "2-5 years",
+      "salary": "₹30,000 - ₹55,000"
+    },
+    {
+      "id": "10",
+      "title": "SEO Specialist",
+      "company": "WebBoost",
+      "location": "Delhi",
+      "description": "Optimize websites to rank higher in search engines.",
+      "experience": "0-2 years",
+      "salary": "₹20,000 - ₹35,000"
+    },
+    {
+      "id": "11",
+      "title": "Content Writer",
+      "company": "WriteRight",
+      "location": "Bangalore",
+      "description": "Create engaging content for web and social media.",
+      "experience": "0-2 years",
+      "salary": "₹15,000 - ₹28,000"
+    },
+    {
+      "id": "12",
+      "title": "Digital Marketing Executive",
+      "company": "MarketLead",
+      "location": "Mumbai",
+      "description": "Plan and execute marketing campaigns.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹32,000"
+    },
+    {
+      "id": "13",
+      "title": "Python Developer",
+      "company": "CodeMinds",
+      "location": "Hyderabad",
+      "description": "Develop web apps and scripts using Python.",
+      "experience": "2-5 years",
+      "salary": "₹28,000 - ₹50,000"
+    },
+    {
+      "id": "14",
+      "title": "Machine Learning Engineer",
+      "company": "AI Labs",
+      "location": "Bangalore",
+      "description": "Build predictive models and ML pipelines.",
+      "experience": "2-5 years",
+      "salary": "₹45,000 - ₹80,000"
+    },
+    {
+      "id": "15",
+      "title": "System Administrator",
+      "company": "TechServe",
+      "location": "Chennai",
+      "description": "Manage servers, networks, and IT infrastructure.",
+      "experience": "2-5 years",
+      "salary": "₹30,000 - ₹55,000"
+    },
+    {
+      "id": "16",
+      "title": "Graphic Designer",
+      "company": "CreativeHub",
+      "location": "Pune",
+      "description": "Design graphics and visual content for marketing.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "17",
+      "title": "Sales Executive",
+      "company": "BizGrowth",
+      "location": "Mumbai",
+      "description": "Generate leads and drive sales for software solutions.",
+      "experience": "0-2 years",
+      "salary": "₹15,000 - ₹28,000"
+    },
+    {
+      "id": "18",
+      "title": "HR Executive",
+      "company": "PeopleFirst",
+      "location": "Delhi",
+      "description": "Manage recruitment and employee relations.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "19",
+      "title": "Cloud Engineer",
+      "company": "CloudWorks",
+      "location": "Bangalore",
+      "description": "Deploy and manage cloud applications.",
+      "experience": "2-5 years",
+      "salary": "₹40,000 - ₹70,000"
+    },
+    {
+      "id": "20",
+      "title": "Technical Support Engineer",
+      "company": "HelpDeskPro",
+      "location": "Hyderabad",
+      "description": "Assist customers with technical issues.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "21",
+      "title": "Frontend Developer",
+      "company": "Webify",
+      "location": "Pune",
+      "description": "Angular and React development for client projects.",
+      "experience": "0-2 years",
+      "salary": "₹20,000 - ₹35,000"
+    },
+    {
+      "id": "22",
+      "title": "Backend Developer",
+      "company": "ServerPro",
+      "location": "Chennai",
+      "description": "Node.js and database integration.",
+      "experience": "2-5 years",
+      "salary": "₹30,000 - ₹55,000"
+    },
+    {
+      "id": "23",
+      "title": "Fullstack Developer",
+      "company": "AppWorks",
+      "location": "Delhi",
+      "description": "End-to-end web application development.",
+      "experience": "2-5 years",
+      "salary": "₹35,000 - ₹60,000"
+    },
+    {
+      "id": "24",
+      "title": "DevOps Engineer",
+      "company": "TechOps",
+      "location": "Bangalore",
+      "description": "CI/CD pipelines and cloud deployment.",
+      "experience": "2-5 years",
+      "salary": "₹40,000 - ₹70,000"
+    },
+    {
+      "id": "25",
+      "title": "QA Engineer",
+      "company": "TestLab",
+      "location": "Mumbai",
+      "description": "Manual and automation testing.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹32,000"
+    },
+    {
+      "id": "26",
+      "title": "UI/UX Designer",
+      "company": "Designify",
+      "location": "Hyderabad",
+      "description": "User interface and user experience design.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "27",
+      "title": "Mobile Developer",
+      "company": "AppMasters",
+      "location": "Bangalore",
+      "description": "Flutter and React Native development.",
+      "experience": "2-5 years",
+      "salary": "₹30,000 - ₹55,000"
+    },
+    {
+      "id": "28",
+      "title": "SEO Analyst",
+      "company": "SearchBoost",
+      "location": "Delhi",
+      "description": "Optimize web content for search engines.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "29",
+      "title": "Content Writer",
+      "company": "WritePro",
+      "location": "Chennai",
+      "description": "Create web content, blogs, and marketing copy.",
+      "experience": "0-2 years",
+      "salary": "₹15,000 - ₹28,000"
+    },
+    {
+      "id": "30",
+      "title": "Digital Marketing Specialist",
+      "company": "MarketGurus",
+      "location": "Mumbai",
+      "description": "Plan and execute online marketing campaigns.",
+      "experience": "2-5 years",
+      "salary": "₹25,000 - ₹45,000"
+    },
+    {
+      "id": "31",
+      "title": "Python Developer",
+      "company": "CodeLab",
+      "location": "Bangalore",
+      "description": "Develop backend solutions and scripts using Python.",
+      "experience": "2-5 years",
+      "salary": "₹30,000 - ₹55,000"
+    },
+    {
+      "id": "32",
+      "title": "Machine Learning Engineer",
+      "company": "AIMinds",
+      "location": "Hyderabad",
+      "description": "Develop ML models and predictive analytics solutions.",
+      "experience": "2-5 years",
+      "salary": "₹50,000 - ₹80,000"
+    },
+    {
+      "id": "33",
+      "title": "System Administrator",
+      "company": "NetSecure",
+      "location": "Pune",
+      "description": "Manage servers, networking, and IT infrastructure.",
+      "experience": "2-5 years",
+      "salary": "₹28,000 - ₹50,000"
+    },
+    {
+      "id": "34",
+      "title": "Graphic Designer",
+      "company": "DesignStudio",
+      "location": "Chennai",
+      "description": "Design visuals and graphics for digital platforms.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "35",
+      "title": "Sales Executive",
+      "company": "BizLeads",
+      "location": "Delhi",
+      "description": "Drive sales and manage client relationships.",
+      "experience": "0-2 years",
+      "salary": "₹15,000 - ₹28,000"
+    },
+    {
+      "id": "36",
+      "title": "HR Coordinator",
+      "company": "PeopleConnect",
+      "location": "Bangalore",
+      "description": "Assist in recruitment and HR operations.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "37",
+      "title": "Cloud Engineer",
+      "company": "CloudX",
+      "location": "Mumbai",
+      "description": "Deploy and maintain cloud services and solutions.",
+      "experience": "2-5 years",
+      "salary": "₹40,000 - ₹70,000"
+    },
+    {
+      "id": "38",
+      "title": "Technical Support",
+      "company": "HelpTech",
+      "location": "Hyderabad",
+      "description": "Provide technical assistance to customers.",
+      "experience": "0-2 years",
+      "salary": "₹18,000 - ₹30,000"
+    },
+    {
+      "id": "39",
+      "title": "Frontend Developer",
+      "company": "UIWorks",
+      "location": "Pune",
+      "description": "Develop responsive user interfaces using Angular/React.",
+      "experience": "0-2 years",
+      "salary": "₹20,000 - ₹35,000"
+    },
+    {
+      "id": "40",
+      "title": "Backend Developer",
+      "company": "ServerStack",
+      "location": "Chennai",
+      "description": "Design and maintain server-side logic and APIs.",
+      "experience": "2-5 years",
+      "salary": "₹30,000 - ₹55,000"
+    }
+  ],
+  "applications1": [
+    {
+      "id": "72a4",
+      "candidateName": "Nandha Reddy",
+      "email": "omananandhareddyreddy@gmail.com",
+      "phone": "6303469720",
+      "resume": "",
+      "coverLetter": ".....",
+      "appliedDate": "2025-10-20T09:29:54.364Z",
+      "status": "Reviewed",
+      "jobId": 1
+    },
+    {
+      "id": "8d8b",
+      "candidateName": "oma",
+      "email": "any@gmail.com",
+      "phone": "+91(7989) 294 - 321",
+      "resume": "",
+      "coverLetter": "wwdwdwd",
+      "appliedDate": "2025-10-20T09:35:08.133Z",
+      "status": "Applied",
+      "jobId": 1
+    }
+  ]
+
 }
